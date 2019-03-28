@@ -1,0 +1,9 @@
+Hola mundo
+
+init programa
+bucle de programa
+fin de programa
+
+
+Ahora continuo
+
